@@ -1,9 +1,15 @@
+<<<<<<< HEAD
     /* 1. DIRETIVAS OBRIGATÓRIAS DO TAILWIND */
+=======
+>>>>>>> 093fa01 (Merge pull request #27 from Challenge-Next-2026/feature/felipelima2005)
     @tailwind base;
     @tailwind components;
     @tailwind utilities;
 
+<<<<<<< HEAD
     /* 2. VARIÁVEIS E REGRAS BASE DA APLICAÇÃO */
+=======
+>>>>>>> 093fa01 (Merge pull request #27 from Challenge-Next-2026/feature/felipelima2005)
     @layer base {
     :root {
         --primary-dark: #12959e;
@@ -23,7 +29,11 @@
     }
 
     html {
+<<<<<<< HEAD
         font-size: 62.5%; /* Define 1rem = 10px */
+=======
+        font-size: 62.5%; 
+>>>>>>> 093fa01 (Merge pull request #27 from Challenge-Next-2026/feature/felipelima2005)
         scroll-behavior: smooth;
     }
 
