@@ -195,7 +195,9 @@ npm run build
 > ### 5. Representação do Projeto
 >>>>>>> 093fa01 (Merge pull request #27 from Challenge-Next-2026/feature/felipelima2005)
 > - #### Protótipo
->   
+>   <img src="./front-end/img/tela_home.png"/>
+>   <img height="700px" src="./front-end/img/impacto-prototipo (1).png"/>
+>   <img src="./front-end/img/ranking-prototipo (1).png"/>
 > - #### RoadMap
 > <img src="./front-end/img/Demonstração de funcionamento da Plataforma.png" width="1000"></img>
 > - #### Cálculo Detalhado
