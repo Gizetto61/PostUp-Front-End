@@ -72,7 +72,6 @@
 > 4. <https://github.com/PhaelRGB>
 > 5. <raphael.rgb07@gmail.com>
 > ---
-<<<<<<< HEAD
 > ### 5. 🚀 Como executar o projeto localmente
 > 
 > ### Pré-requisitos
@@ -141,59 +140,6 @@
 >
 > ---
 > ### 6. Representação do Projeto
-=======
-## 🚀 Como executar o projeto localmente
-
-### Pré-requisitos
-
-É necessário ter instalado:
-
-- Node.js
-- Git
-- Git Flow
-
-### Execução
-
-Clone o repositório:
-
-```bash
-git clone URL_DO_REPOSITORIO
-```
-
-Acesse a pasta do projeto:
-
-```bash
-cd NOME_DO_PROJETO
-```
-
-Acesse a branch de desenvolvimento:
-
-```bash
-git checkout develop
-git pull origin develop
-```
-
-Instale as dependências:
-
-```bash
-npm install
-```
-
-Inicie o projeto:
-
-```bash
-npm run dev
-```
-
-Gera versão otimizada para produção:
-
-```bash
-npm run build
-```
-
->---
-> ### 5. Representação do Projeto
->>>>>>> 093fa01 (Merge pull request #27 from Challenge-Next-2026/feature/felipelima2005)
 > - #### Protótipo
 >   <img src="./front-end/img/tela_home.png"/>
 >   <img height="700px" src="./front-end/img/impacto-prototipo (1).png"/>
@@ -203,7 +149,6 @@ npm run build
 > - #### Cálculo Detalhado
 > <img src="./front-end/img/Fluxo-ScoreDinâmico.png" width="1000"></img>
 > ---
-<<<<<<< HEAD
 > ### 7. Link do Vídeo Pitch
 > - <https://youtu.be/hId_HgK9PV0>
 > ---
@@ -211,15 +156,6 @@ npm run build
 > - <https://github.com/Challenge-Next-2026/PostUp>
 > ---
 > ### 9. Contato
-=======
- ### 6. Link do Vídeo Pitch
-> - <https://youtu.be/hId_HgK9PV0>
-> ---
-> ### 7. Link do Repositório
-> - <https://github.com/Challenge-Next-2026/PostUp>
-> ---
-> ### 8. Contato
->>>>>>> 093fa01 (Merge pull request #27 from Challenge-Next-2026/feature/felipelima2005)
 > - <challengeCFGR.2026@gmail.com>
 > - +55 (11) 94306-3646
 > - +55 (11) 96993-7538
